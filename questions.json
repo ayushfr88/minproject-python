@@ -1,0 +1,18 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Lisbon"],
+        "answer": 3,
+        "difficulty": "Easy",
+        "category": "Geography",
+        "explanation": "The capital of France is Paris."
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["Mark Twain", "William Shakespeare", "Charles Dickens", "Jane Austen"],
+        "answer": 2,
+        "difficulty": "Medium",
+        "category": "Literature",
+        "explanation": "William Shakespeare wrote 'Romeo and Juliet'."
+    }
+]
